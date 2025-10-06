@@ -1,7 +1,6 @@
 #include <iostream>
-int main()
-{
- int x,y;
-    std::cin>> x >> y;
-    std::cout<< (x+y)%10;
+int main() {
+    long long x, y;
+    std::cin >> x >> y;
+    std::cout << 3 * y - x;
 }
