@@ -14,3 +14,4 @@ int main(){
     }
     return 0;
 }
+// Problem #254 - Puteri - Corrected
