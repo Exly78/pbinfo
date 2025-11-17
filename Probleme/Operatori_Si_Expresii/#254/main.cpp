@@ -10,7 +10,7 @@ int main(){
         long long pow2=1;
         while(pow2*2<=b)pow2*=2;
         if(pow2>=a)cout<<pow2<<"\n";
-        else cout<<"-1\n";
+        else cout<<"0\n";
     }
     return 0;
 }
